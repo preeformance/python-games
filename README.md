@@ -1,4 +1,4 @@
-# Games
-Practice projects with a fun element
+# Python Practice
 
-While learning different languages, I wanted to have more hands-on practice. I found these fun little projects to work on. 
+
+While learning different languages, I wanted to have more hands-on practice. I found this fun little project to work on. 
